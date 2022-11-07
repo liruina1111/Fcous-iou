@@ -1,0 +1,11 @@
+README.md
+setup.py
+./fcos_cuda/src/nms.cpp
+./fcos_cuda/src/nms_cuda.cu
+./fcos_cuda/src/pybind.cpp
+fcos_cuda/__init__.py
+fcos_cuda/nms.py
+fcos_cuda.egg-info/PKG-INFO
+fcos_cuda.egg-info/SOURCES.txt
+fcos_cuda.egg-info/dependency_links.txt
+fcos_cuda.egg-info/top_level.txt
